@@ -1,2 +1,2 @@
 # matching
-simple matchign game
+simple matching game
